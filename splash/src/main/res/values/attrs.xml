@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SplashFragment">
+        <attr name="icon_drawable" format="reference" />
+        <attr name="title_drawable" format="reference" />
+        <attr name="status_text" format="string" />
+        <attr name="footer_text" format="string" />
+    </declare-styleable>
+</resources>

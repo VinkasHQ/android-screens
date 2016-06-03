@@ -1,0 +1,4 @@
+<resources>
+    <string name="splash_status_loading">Loading...</string>
+    <string name="splash_footer_text">Footer Text</string>
+</resources>

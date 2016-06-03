@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_margin_small">8dp</dimen>
+    <dimen name="splash_margin_medium">16dp</dimen>
+    <dimen name="splash_margin_large">24dp</dimen>
+    <dimen name="splash_margin_xlarge">32dp</dimen>
+    <dimen name="splash_margin_xxxlarge">48dp</dimen>
+</resources>
